@@ -28,4 +28,4 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=KelpX-AppBuilder
   license: http://www.perlfoundation.org/artistic_license_2_0
-version: '0.001'
+version: '0.002'
